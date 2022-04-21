@@ -1,3 +1,4 @@
+// callback function
 const first_fun=(x)=>{
     var you=require("readline-sync").question("enter a name");
     x(you);

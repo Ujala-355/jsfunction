@@ -1,3 +1,4 @@
+
 function outer(){
     var a="ujala";
     console.log(a)
